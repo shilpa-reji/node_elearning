@@ -1,0 +1,26 @@
+{
+    "something": "Oops!, Something went wrong",
+    "authAPI": {
+        "success": "Success",
+        "error": "Error",
+        "errorCode": "400",
+        "codeSuccess": "200",
+        "auth_failed": "Authorization failed",
+        "courseCreated":"Course created successfully!!",
+        "email_already_exist":"EmailId already Exist",
+        "phoneNo_already_exist":"Phone Number already Exist",
+        "invalid_password":"Please enter valid password",
+        "limit_reched":"You have reached your minimum limit",
+        "time_overlap":"Course timing overlap with existing period",
+        "duration_over":"Course duration limit is over",
+        "No_permission":"Only teacher can add course",
+        "successfully_joined":"Course joining successfully completed",
+        "course_not_exist":"Course not Exist",
+        "course_limit_reached":"You can only enroll one course at a time",
+        "student_not_exist":"You cannot join course"
+
+
+        
+
+    }
+}
